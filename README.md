@@ -5,4 +5,4 @@ A long-running project of mine to create a procedural generated castle-builder. 
 
 ![game screenshot2](https://user-images.githubusercontent.com/98781207/171694874-b51b27b5-48cd-413d-81f0-a8823b6f9349.png)
 
-This is a work in progress, included in this repository is an early version.
+This is a work in progress, included in this repo is only the code.
